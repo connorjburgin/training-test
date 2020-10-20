@@ -2,4 +2,6 @@
 training for NCEAS
 
 - Orange
-- *Dinosaurs*
+- *Dinosaurs 2*
+
+##Oranges and Dinosaurs
